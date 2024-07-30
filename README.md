@@ -16,8 +16,8 @@ The code is provided in the Jupyter Notebook `AnomalyDetectionTimeSeries.ipynb`.
 2. Place the dataset in the `data/` directory.
 3. Open the Jupyter Notebook from the `notebooks/` directory and run the cells.
 
-##Import required libraries
-##Load and preprocess data
-##Build and train the LSTM model
-##Predict and identify anomalies
-##Visualize the results
+## Import required libraries
+## Load and preprocess data
+## Build and train the LSTM model
+## Predict and identify anomalies
+## Visualize the results
