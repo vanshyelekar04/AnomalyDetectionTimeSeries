@@ -20,8 +20,13 @@ The code is provided in the Jupyter Notebook `AnomalyDetectionTimeSeries.ipynb`.
 
 https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
+
 ##Import required libraries
+
 ##Load and preprocess data
+
 ##Build and train the LSTM model
+
 ##Predict and identify anomalies
+
 ##Visualize the results
